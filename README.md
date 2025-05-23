@@ -84,3 +84,9 @@
 ## 📬 문의
 
 - 질문이나 아이디어가 있다면 [Issues](https://github.com/codeit-bootcamp-spring/awesome-food-spots/issues)를 활용해주세요!
+칸다 소바
+칸다 소바
+### [몽탄]
+- 📍 **위치:** 서울시 용산구 백범로99길 50
+- 🍴 **메뉴 추천:** 우대갈비, 된장찌개
+- ⭐ **평점:** 5/5
