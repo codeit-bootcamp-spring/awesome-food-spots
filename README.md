@@ -84,3 +84,8 @@
 ## 📬 문의
 
 - 질문이나 아이디어가 있다면 [Issues](https://github.com/codeit-bootcamp-spring/awesome-food-spots/issues)를 활용해주세요!
+### [까치 둥지]
+- 📍 **위치:** 강원 원주시 치악로 1731
+- 🍴 **메뉴 추천:** 알탕
+- ⭐ **평점:** 5/5
+- 💬 **코멘트:** 깔끔하고 맛있는 알탕이에요.
