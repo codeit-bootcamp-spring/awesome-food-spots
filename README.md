@@ -84,3 +84,5 @@
 ## 📬 문의
 
 - 질문이나 아이디어가 있다면 [Issues](https://github.com/codeit-bootcamp-spring/awesome-food-spots/issues)를 활용해주세요!
+추가된 맛집 정보
+조마루 감자탕
