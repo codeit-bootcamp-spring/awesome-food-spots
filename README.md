@@ -84,3 +84,5 @@
 ## 📬 문의
 
 - 질문이나 아이디어가 있다면 [Issues](https://github.com/codeit-bootcamp-spring/awesome-food-spots/issues)를 활용해주세요!
+
+⭐️ 추가된 맛집 정보 : 돈그리아 (서울 강남구 선릉로86길 6-5 프라임빌딩)
