@@ -84,3 +84,8 @@
 ## 📬 문의
 
 - 질문이나 아이디어가 있다면 [Issues](https://github.com/codeit-bootcamp-spring/awesome-food-spots/issues)를 활용해주세요!
+### [원조감자탕일미집 홍대점]
+📍 위치: 서울 마포구 동교로19길 4 1층
+🍴 메뉴 추천: 감자탕
+⭐ 평점: 4.5/5
+💬 코멘트: 깔끔한 국물이 매력인 감자탕!
